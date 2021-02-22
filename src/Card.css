@@ -1,0 +1,15 @@
+#card {
+    width: 250px;
+    text-align: center;
+    padding: 20px;
+    background: #c3acac;
+    vertical-align: center;
+    border-radius: 20px;
+}
+
+#yo {
+    width: 130px;
+    height: 180px;
+    text-align: center;
+    border-radius: 20px;
+}
